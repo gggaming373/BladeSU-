@@ -1,4 +1,7 @@
-# BladeSU! ![image](https://github.com/gggaming373/BladeSU-/assets/74589273/b864bcc3-a40c-4e25-858c-7cc6c839d6ff)
+# BladeSU! 
+
+![image](https://github.com/gggaming373/BladeSU-/assets/74589273/b864bcc3-a40c-4e25-858c-7cc6c839d6ff)
+
 a free to play rythm game inspired by osu!
 
 
